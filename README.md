@@ -18,4 +18,4 @@ TA-Tara
 
 ## Links
 GITHUB LINK- https://github.com/MK0999/closeness-password
-DEPLOYED LINK-  
+DEPLOYED LINK-  https://mk0999.github.io/closeness-password/  
