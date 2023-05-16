@@ -17,5 +17,5 @@ TA-Tara
 ![webpage with password](https://github.com/MK0999/closeness-password/assets/130515045/042b86bb-ae3f-44c6-9802-084c4653c82a)
 
 ## Links
-GITHUB LINK-
-DEPLOYED LINK- 
+GITHUB LINK- https://github.com/MK0999/closeness-password
+DEPLOYED LINK-  
